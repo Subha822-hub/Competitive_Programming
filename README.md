@@ -9,3 +9,10 @@
 -  Wrong_Subtraction -- [Code](https://github.com/Subha822-hub/DP/blob/main/CodeForces/Wrong_Subtraction.py)
 
 - - - -
+
+>DAY 02
+
+-  Team -- [Code](https://github.com/Subha822-hub/DP/blob/main/CodeForces/Team.py)
+
+
+- - - -
