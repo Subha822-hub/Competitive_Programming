@@ -1,0 +1,11 @@
+# Occurence of Each character in a string
+
+n='occurrence'
+a=[]
+for i in range(len(n)):
+    if n[i] not in a:
+        a.append(n[i])
+        x = n.count(n[i])
+        print(n[i]+''+str(x),end="")
+    else:
+        continue
