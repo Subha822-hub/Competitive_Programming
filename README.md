@@ -1,4 +1,4 @@
-# CP
+# Competitive Programming
 
 >DAY 01
 -  Watermelon -- [Code](https://github.com/Subha822-hub/DP/blob/main/CodeForces/Watermelon.py)
