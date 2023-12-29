@@ -20,8 +20,14 @@
 
 -  Sort_Colors -- [Code](https://github.com/Subha822-hub/DP/blob/main/LeetCode/Sort_Colors.py)
 -  Add_Two_Numbers -- [Code](https://github.com/Subha822-hub/DP/blob/main/LeetCode/Add_Two_Numbers.py)
--  Single_Number -- [Code](https://github.com/Subha822-hub/DP/blob/main/LeetCode/Single_Number)
--  Single_Number_II -- [Code](https://github.com/Subha822-hub/DP/blob/main/LeetCode/Single_Number_II)
--  Single_Number_III -- [Code](https://github.com/Subha822-hub/DP/blob/main/LeetCode/Single_Number_III)
+-  Single_Number -- [Code](https://github.com/Subha822-hub/DP/blob/main/LeetCode/Single_Number.py)
+-  Single_Number_II -- [Code](https://github.com/Subha822-hub/DP/blob/main/LeetCode/Single_Number_II.py)
+-  Single_Number_III -- [Code](https://github.com/Subha822-hub/DP/blob/main/LeetCode/Single_Number_III.py)
+
+- - - -
+>DAY 04
+
+-  Valid_Parentheses -- [Code](https://github.com/Subha822-hub/DP/blob/main/LeetCode/Valid_Parentheses.py)
+
 
 - - - -
