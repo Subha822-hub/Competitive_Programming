@@ -28,6 +28,16 @@
 >DAY 04
 
 -  Valid_Parentheses -- [Code](https://github.com/Subha822-hub/DP/blob/main/LeetCode/Valid_Parentheses.py)
+-  Greater_Average -- [Code](https://github.com/Subha822-hub/DP/blob/main/CodeChef/Greater_Average.py)
+-  Subscriptions -- [Code](https://github.com/Subha822-hub/DP/blob/main/CodeChef/Subscriptions.py)
+-  Janmansh_and_Assignments -- [Code](https://github.com/Subha822-hub/DP/blob/main/CodeChef/Janmansh_and_Assignments.py)
+-  Chef_in_his_Office -- [Code](https://github.com/Subha822-hub/DP/blob/main/CodeChef/Chef_in_his_Office.py)
+
+- - - -
+>DAY 05
+
+-  CRED_Coins -- [Code](https://github.com/Subha822-hub/DP/blob/main/CodeChef/CRED_Coins.py)
+-  Chefland_Games -- [Code](https://github.com/Subha822-hub/DP/blob/main/CodeChef/Chefland_Games.py)
 
 
 - - - -
