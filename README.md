@@ -38,6 +38,8 @@
 
 -  CRED_Coins -- [Code](https://github.com/Subha822-hub/DP/blob/main/CodeChef/CRED_Coins.py)
 -  Chefland_Games -- [Code](https://github.com/Subha822-hub/DP/blob/main/CodeChef/Chefland_Games.py)
-
+-  Good_Program -- [Code](https://github.com/Subha822-hub/DP/blob/main/CodeChef/Good_Program.py)
+-  Qualify_the_Round -- [Code](https://github.com/Subha822-hub/DP/blob/main/CodeChef/Qualify_the_Round.py)
+-  Car_or_Bus -- [Code](https://github.com/Subha822-hub/DP/blob/main/CodeChef/Car_or_Bus.py)
 
 - - - -
