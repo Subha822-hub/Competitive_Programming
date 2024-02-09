@@ -43,3 +43,8 @@
 -  Car_or_Bus -- [Code](https://github.com/Subha822-hub/DP/blob/main/CodeChef/Car_or_Bus.py)
 
 - - - -
+>DAY 06
+
+-  The_Three_Topics -- [Code](https://github.com/Subha822-hub/DP/blob/main/CodeChef/The_Three_Topics.py)
+
+- - - -
